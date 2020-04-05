@@ -4,8 +4,8 @@
 </head>
 <body>
 <div>
-    <h2>Hello ${welcome},</h2>
-    You have successfully logged in!!
+    <h2>HELLO FRESHERPRO ${welcome},</h2>
+    LOGGED IN
 </div>
 </body>
 </html>
