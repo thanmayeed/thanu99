@@ -4,8 +4,8 @@
 </head>
 <body>
 <div>
-    <h2>HELLO FRESHERPRO ${welcome},</h2>
-    LOGGED IN
+    <h2>HI ${welcome},</h2>
+    LOGGED IN <br> TO FRESHERPRO
 </div>
 </body>
 </html>
